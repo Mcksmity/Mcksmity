@@ -2,8 +2,7 @@
 
 👨‍💻  I am an aspiring Software Developer
 
-🔒  Currently a Software Engineering Student
-
+🔒  Currently studying Software Engineering
 
 
 
